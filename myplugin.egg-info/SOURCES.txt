@@ -1,0 +1,9 @@
+README.rst
+setup.py
+myplugin.egg-info/PKG-INFO
+myplugin.egg-info/SOURCES.txt
+myplugin.egg-info/dependency_links.txt
+myplugin.egg-info/entry_points.txt
+myplugin.egg-info/top_level.txt
+test_exporters/__init__.py
+test_exporters/scatter2d.py
